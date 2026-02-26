@@ -1,0 +1,20 @@
+# Ambiente
+.env
+
+# Logs
+logs/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Pastas de saída
+dados/processados/
+dados/erro/
+dados/relatorios/
+
+# Arquivos temporários
+*.log
+
+Estrutura.txt
+Documentos
