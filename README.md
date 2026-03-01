@@ -78,14 +78,14 @@ consultafiistelegram/
 
 ### 📂 Estrutura
 
-
+```
 services/ → regras de negócio
 database/ → acesso ao banco
 utils/ → utilidades
 dados/ → arquivos de entrada e saída
 logs/ → logs por execução
 sql/ → estrutura do banco
-
+```
 
 Separação clara de responsabilidades e baixo acoplamento.
 
